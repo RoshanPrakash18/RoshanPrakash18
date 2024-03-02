@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoshanPrakash18
-- 👀 I’m interested in Analytics
-- 🌱 I’m currently learning Data Science & Fintech
-- 💞️ I’m looking to collaborate on Predictive Modelling
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently a Master's graduate in Data Science & Artificial Intelligence
+- 💞️ I’m looking to collaborate on Predictive Modelling, LLM and Big Data 
 - 📫 How to reach me www.linkedin.com/in/roshanprakash
 
 <!---
