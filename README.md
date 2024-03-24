@@ -3,7 +3,7 @@
 - 🌱 I am a passionate Data Scientist and a Sustainable Development Engineer.
 - 👀 I’m looking to collaborate on Predictive Modelling, LLM and Big Data.
 - 🛸 I have domain knowledge and experience in Energy, E-commerce, and Healthcare.
-- 📫 My Coding Journey started in Java, Matlab, R, Python and C# (2015 - Present)
+- 📫 My Coding Journey started with Java, Matlab, R, Python and C# (2015 - Present)
 - ✨ Here's a glimpse into some of the projects I've built throughout my long coding adventure:
 
 <!---
