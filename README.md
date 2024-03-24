@@ -1,4 +1,4 @@
-- 👋 Hi there! My name is Roshan Prakash.
+- 👋 Hello there! My name is Roshan Prakash.
 - 🌎 I'm a recent graduate with a Master's of Science in Data Science and Artificial Intelligence from the esteemed University of Liverpool.
 - 🌱 I am a passionate Data Scientist and a Sustainable Development Engineer.
 - 👀 I’m looking to collaborate on Predictive Modelling, LLM and Big Data.
