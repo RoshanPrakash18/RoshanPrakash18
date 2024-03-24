@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RoshanPrakash18
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently a Master's graduate in Data Science & Artificial Intelligence
-- 💞️ I’m looking to collaborate on Predictive Modelling, LLM and Big Data 
-- 📫 How to reach me www.linkedin.com/in/roshanprakash
+- 👋 Hi there! My name is Roshan Prakash, and I'm a recent graduate with a Master's of Science in Data Science and Artificial Enginner from the esteemed University of Liverpool
+- 🌱 I am a passionate Data Scientist and a Sustainable Development Engineer.
+- 👀 I’m looking to collaborate on Predictive Modelling, LLM and Big Data 
+- 📫 My Coding Journey started in Java, Matlab, R, Python and C# (2015 - Present)
+- ✨ Here's a glimpse into some of the projects I've built throughout my long coding adventure:
 
 <!---
 RoshanPrakash18/RoshanPrakash18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
